@@ -1,0 +1,5 @@
+{
+    "proxy_directory":"./proxy/proxies.txt",
+    "used_proxy_directory":"./proxy/usedproxies.txt",
+    "port":3333
+}
